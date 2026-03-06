@@ -43,4 +43,4 @@ Scripting  →  Python, Bash
 
 > Not everything here is polished. Some of it is a work in progress. I'd rather have something real and slightly rough than a perfectly fake portfolio.
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/vishalreddy277) · vishalreddy277@gmail.com
+📫 Reach me: [LinkedIn](https://linkedin.com/in/vishalreddy277) vishalcommerce921@gmail.com
